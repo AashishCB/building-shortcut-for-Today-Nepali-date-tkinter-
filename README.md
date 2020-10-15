@@ -7,17 +7,17 @@ Imported to use Tkinter and make GUI applications.
 # nepali_datetime
 A library for similar to datetime library with much similar functions with nepali datetime information
 
-' $ pip install nepali-datetime '
+` $ pip install nepali-datetime `
 
 *You must have python3 installed on your computer to run it.*
 
 # To run the .py file:
 Run the below command in terminal or cmd through any IDE you prefer
 
-' $ python nepali date gui.pyw '
+` $ python nepali date gui.pyw `
 
 or 
-' $ python3 nepali date gui.pyw '
+` $ python3 nepali date gui.pyw `
 
 
 ## Using taskscheduler
